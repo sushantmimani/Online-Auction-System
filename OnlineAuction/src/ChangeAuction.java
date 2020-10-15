@@ -28,6 +28,7 @@ public class ChangeAuction extends HttpServlet {
 	static java.sql.Date sDate;
 	static java.sql.Date eDate;
        
+	
     	/**
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
